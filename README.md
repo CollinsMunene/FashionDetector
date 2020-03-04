@@ -57,7 +57,7 @@ collinshillary1@gmail.com<br>
 +254715804742<br>
 
 <a href="https://collinsmunene.github.io/collinshillary.github.io/">Collins Portfolio</a><br>
-We at<a href="https://collinsmunene.github.io/DevligenceLtd/">Devligence Ltd</a> are more than willing to work and listen to your amazing input and new ideas.
+We at <a href="https://collinsmunene.github.io/DevligenceLtd/">Devligence Ltd</a> are more than willing to work and listen to your amazing input and new ideas.
 
 
 
