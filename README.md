@@ -15,6 +15,8 @@ Hello there!! Have you ever imagined what if, instead of stressing yourself on w
 Every project that constitutes anything AI or ML, it highly depends on the <b>model</b> used. For this project i'm still working on making it's model perfect(or close to).<br>
 But it still works fine...
 
+And also i started with an assumption that the images i will be getting will be tops.hehehe
+
 <h2>AIM OF THE PROJECT</h2><br>
 
 The aim of this project is to allow one to take a video of themselves and the system should suggest what kind of clothes he/she could match well with.<br>
@@ -51,10 +53,10 @@ we have to make super changes to our model, to take it closer to perfection<br>
 
 I am inviting you to take part to work on this project. If there is any question or comment don't hesitate to contact me at <br>
 
-collinshillary1@gmail.com
-+254715804742
+collinshillary1@gmail.com<br>
++254715804742<br>
 
-<a href="https://collinsmunene.github.io/collinshillary.github.io/">Collins Portfolio</a>
+<a href="https://collinsmunene.github.io/collinshillary.github.io/">Collins Portfolio</a><br>
 We at<a href="https://collinsmunene.github.io/DevligenceLtd/">Devligence Ltd</a> are more than willing to work and listen to your amazing input and new ideas.
 
 
