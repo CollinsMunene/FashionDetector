@@ -13,9 +13,14 @@ Hello there!! Have you ever imagined what if, instead of stressing yourself on w
 
 <h2>TO NOTE:</h2>
 Every project that constitutes anything AI or ML, it highly depends on the <b>model</b> used. For this project i'm still working on making it's model perfect(or close to).<br>
-But it still works fine...
 
-And also i started with an assumption that the images i will be getting will be tops.hehehe
+But it still works fine...<br>
+
+And also i started with an assumption that the images i will be getting will be tops...hehehe
+
+<b><i>The project is still IN PROGRESS. I will add more files, folders and information on the training and testing data used.
+    If you are not familiar with IBM yet i highly suggest you check it out</i></b>
+    
 
 <h2>AIM OF THE PROJECT</h2><br>
 
@@ -51,7 +56,7 @@ follow the following commands to get started and let's get this project to it's 
 <h2>WHAT NEXT???</h2>
 we have to make super changes to our model, to take it closer to perfection<br>
 
-I am inviting you to take part to work on this project. If there is any question or comment don't hesitate to contact me at <br>
+I am inviting YOU to take part on this project. If there is any question or comment don't hesitate to contact me at <br>
 
 collinshillary1@gmail.com<br>
 +254715804742<br>
