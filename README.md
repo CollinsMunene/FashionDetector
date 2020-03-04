@@ -50,6 +50,7 @@ follow the following commands to get started and let's get this project to it's 
 <li>git clone https://github.com/CollinsMunene/FashionDetector.git</li>
 <li>cd ClothDetector</li>
 <li>source cloth_detector/bin/activate</li>
+<li>pip3 install -r requirments.txt</li>
 <li>Then run any of the .py files with python3 imagerecognition.py or python3 videorecognition.py</li>
 </ol><br>
 
