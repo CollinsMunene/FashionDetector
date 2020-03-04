@@ -3,9 +3,9 @@ from watson_developer_cloud import VisualRecognitionV3
 
 visual_recognition = VisualRecognitionV3(
     '2018-03-19',
-    iam_apikey='-MTMPan0kVdwQvVE8pwLIGcYLy2rXUIalFtilqVCCDRk')
+    iam_apikey=os.environ.get('IBMBETHKEY'))
 
-with open('./fruitbowl.jpg', 'rb') as images_file:
+with open('<enter location of your saved image>', 'rb') as images_file:
     classes = visual_recognition.classify(
         images_file,
         threshold='0.6',
